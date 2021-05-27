@@ -12,3 +12,5 @@ Powerfull VC music streamer bot for tg
 ### Film Group:
 
 <a href="https://t.me/movieworldkdy"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+[![Deploy](https://heroku.com/deploy?template=https://github.com/TG-Bot-Devs/samanthaXcalls)
